@@ -4,4 +4,5 @@ Go言語でのデザインパターンの実装をまとめたリポジトリで
 デザインパターンの実装は[こちら](https://refactoring.guru/ja/design-patterns/go)を参考にしています。
 
 ## デザインパターン
+- Factory Method ⭐︎⭐︎⭐︎
 - Abstract Factory ⭐︎⭐︎⭐︎
