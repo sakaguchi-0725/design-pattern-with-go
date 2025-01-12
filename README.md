@@ -4,6 +4,10 @@ Go言語でのデザインパターンの実装をまとめたリポジトリで
 デザインパターンは[こちら](https://refactoring.guru/ja/design-patterns/go)を参考にしており、実装は、星3のもののみ実装しています。
 
 ## デザインパターン一覧
+### 生成に関するパターン
 - Builder
 - Factory Method
 - Abstract Factory
+
+### 構造に関するパターン
+- Adapter
