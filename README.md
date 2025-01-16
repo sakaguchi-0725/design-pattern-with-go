@@ -16,3 +16,4 @@ Go言語でのデザインパターンの実装をまとめたリポジトリで
 - Iterator
 - Command
 - Observer
+- Strategy
